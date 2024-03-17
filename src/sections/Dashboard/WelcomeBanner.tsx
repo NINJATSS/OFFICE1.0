@@ -102,7 +102,7 @@ export function WelcomeBanner() {
       <div>
         <h1>THE OFFICE 🖥</h1>
         <p>
-          your 9-5 syarts here .
+          your 9-5 starts here .
         </p>
       </div>
       <Buttons>
