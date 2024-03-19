@@ -63,7 +63,7 @@ export function WelcomeBanner() {
   return (
     <Welcome>
       <div>
-        <h1>                            </h1>
+        <h1> THE OFFICE  </h1>
         <p>
           
         </p>
