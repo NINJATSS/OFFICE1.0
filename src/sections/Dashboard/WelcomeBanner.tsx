@@ -63,9 +63,9 @@ export function WelcomeBanner() {
   return (
     <Welcome>
       <div>
-        <h1>THE OFFICE 🖥</h1>
+        <h1></h1>
         <p>
-          your 9-5 starts here .
+          
         </p>
       </div>
       <Buttons>
