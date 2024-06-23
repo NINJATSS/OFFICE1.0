@@ -75,7 +75,7 @@ export function WelcomeBanner() {
           WEBSITE
         </button>
         <button onClick={() => window.open('https://birdeye.so/token/8NH3AfwkizHmbVd83SSxc2YbsFmFL4m2BeepvL6upump?chain=solana', '_blank')}>
-          👨‍💻 BUY $OFFICE
+          👨‍💻 BUY $TOPG
         </button>
         <button onClick={() => window.open('https://t.me/CTOTOPG', '_blank')}>
           💬 TG
