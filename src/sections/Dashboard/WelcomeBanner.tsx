@@ -71,13 +71,13 @@ export function WelcomeBanner() {
         </p>
       </div>
       <Buttons>
-        <button onClick={() => window.open('https://www.officesolana.com/', '_blank')}>
+        <button onClick={() => window.open('https://topgonsolana.com', '_blank')}>
           WEBSITE
         </button>
-        <button onClick={() => window.open('https://birdeye.so/token/S9QqCbNt2oCyQ2a85rxD4CuC8iNG2aPGaVG3AV77Q4G?chain=solana', '_blank')}>
+        <button onClick={() => window.open('https://birdeye.so/token/8NH3AfwkizHmbVd83SSxc2YbsFmFL4m2BeepvL6upump?chain=solana', '_blank')}>
           👨‍💻 BUY $OFFICE
         </button>
-        <button onClick={() => window.open('https://t.me/thesoloffice', '_blank')}>
+        <button onClick={() => window.open('https://t.me/CTOTOPG', '_blank')}>
           💬 TG
         </button>
       </Buttons>
