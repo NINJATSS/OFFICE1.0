@@ -69,7 +69,7 @@ export const GAMES: GameBundle[] = [
       description: `
         A miniature version of Roulette. WYSIWYG!
       `,
-      background: '#1de87e',
+      background: '#062e12',
     },
     app: React.lazy(() => import('./Roulette')),
   },
