@@ -5,7 +5,7 @@ export const GAMES: GameBundle[] = [
   {
     id: 'dice',
     meta: {
-      background: '#ff6490',
+      background: '#062e12',
       name: 'Dice',
       image: '/games/dice.png',
       description: `
@@ -17,7 +17,7 @@ export const GAMES: GameBundle[] = [
   {
     id: 'slots',
     meta: {
-      background: '#5465ff',
+      background: '#062e12',
       name: 'Slots',
       image: '/games/slots.png',
       description: `
@@ -34,7 +34,7 @@ export const GAMES: GameBundle[] = [
         Pick Heads or Tails. Double your money or go broke. Simple as.
       `,
       image: '/games/flip.png',
-      background: '#ffe694',
+      background: '#062e12',
     },
     app: React.lazy(() => import('./Flip')),
   },
@@ -44,7 +44,7 @@ export const GAMES: GameBundle[] = [
       name: 'HiLo',
       image: '/games/hilo.png',
       description: 'Guess if the next card is going to be higher or lower than the current one. Continue until you want to cash out!',
-      background: '#77bbff',
+      background: '#062e12',
     },
     props: { logo: '/logo.svg' },
     app: React.lazy(() => import('./HiLo')),
@@ -57,7 +57,7 @@ export const GAMES: GameBundle[] = [
         There's money hidden beneath the squares. The reward will increase the more squares you reveal, but watch out for the 5 hidden mines. Touch one and you'll go broke. You can cash out at any time.
       `,
       image: '/games/mines.png',
-      background: '#8376ff',
+      background: '#062e12',
     },
     app: React.lazy(() => import('./Mines')),
   },
